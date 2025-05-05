@@ -1,0 +1,6 @@
+path: /home/roger/Github/rogertests/rogertests/RETO_PATOS/patos_dataset
+train: images/train
+val: images/val
+
+names:
+  0: patito

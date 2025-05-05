@@ -1,0 +1,6 @@
+path: /home/roger/Github/rogertests/rogertests/RETO_PATOS/YOLO_dataset_improved_separated
+train: images/train
+val: images/val
+
+names:
+  0: patobb
